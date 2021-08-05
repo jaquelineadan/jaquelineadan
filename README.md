@@ -12,8 +12,8 @@ where I most liked to dedicate myself was the study and development of interface
 
 <div align="center">
   <a href="https://github.com/jaquelineadan">
-	<img height="160em" src="https://github-readme-stats.vercel.app/api/?username=jaquelineadan&theme=dracula&border_radius=6&hide=prs,issues"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelineadan&layout=compact&langs_count=7&theme=dracula&border_radius=6"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/?username=jaquelineadan&theme=dracula&border_radius=6&hide=prs,issues"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaquelineadan&layout=compact&langs_count=7&theme=dracula&border_radius=6"/>
 </div>
 	
 ## 
